@@ -1,2 +1,3 @@
 # friends-scripts
-The classic sitcom scripts Friends
+
+The scripts used by the actors of the classic American sitcom Friends
